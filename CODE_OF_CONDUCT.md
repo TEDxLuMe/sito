@@ -1,6 +1,6 @@
 # Codice di Comportamento del Collaboratore
 
-English version: [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+Translated versions: [Contributor Convenant Code of Conduct Translations](https://www.contributor-covenant.org/translations)
 
 ## Il Nostro Impegno
 
