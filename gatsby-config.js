@@ -4,7 +4,8 @@
 module.exports = {
   siteMetadata: {
     title: `sito`,
-    siteUrl: `https://www.yourdomain.tld`
+    description: "Sito per TEDx Pisa",
+    siteUrl: `https://www.tedxpisa.com`
   },
   plugins: ["gatsby-plugin-image", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
